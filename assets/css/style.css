@@ -1052,7 +1052,7 @@ white-space: nowrap;
     
 
        @media (max-width:450px) {
-        .hero, .webAim, .Restaurants, .Restaurants-container, .categories, .discount, .footer-card{
+        .hero, .webAim, .Restaurants, .Restaurants-container, .categories, .discount, footer{
             width: 100vh;
         }
        }
